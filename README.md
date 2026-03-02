@@ -19,3 +19,4 @@ A lot of features are behind [settings](https://roblox.plus/settings), and won't
 - Wear/Remove Button: When on an avatar item details page, the context menu contains an option to add or remove the item from your avatar - as long as you own it.
 
 There are some small easter eggs not listed here also included in the extension.
+1
